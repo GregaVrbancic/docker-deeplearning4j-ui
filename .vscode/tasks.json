@@ -6,7 +6,7 @@
         {
             "taskName": "build",
             "type": "shell",
-            "command": "docker build -t gregsi/docker-deeplearning4j-ui:1.1 .",
+            "command": "docker build -t gregsi/docker-deeplearning4j-ui:1.2 .",
             "group": {
                 "kind": "build",
                 "isDefault": true
